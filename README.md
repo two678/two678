@@ -1,4 +1,3 @@
-[header240223]  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFF99&height=200&section=header&text=two678&fontSize=90" />
 
 <div align="center">
