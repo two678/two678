@@ -46,3 +46,16 @@
   </h3>
   <h4> 프로젝트 개요 : 바쁜 현대 사회에서 영양제나 체계적인 약물 복용이 필요한 사람들을 대상으로, 복용 시간을 직관적으로 표시하고, 흥미를 유발할 수 있는 기능을 통해 건강한 생활을 돕는 역할을 합니다.</h4>
 </div>
+
+<div>
+   <h3>
+     <a href="https://github.com/PJ-TEAM-Vitamin/Smart_supplement_scheduler_pj?tab=readme-ov-file">
+      👉 Globalnomad
+     </a> 
+     2025.07 ~ 2025.08
+  </h3>
+  <h4> 
+    프로젝트 개요 : Global Nomad는 사용자가 다양한 체험(액티비티나 음식 등)을 지도와 캘린더를 활용하여 예약할 수 있는 플랫폼입니다. 직접 체험을 등록하는 판매자 역할을 할 수도 있습니다.
+  </h4>
+</div>
+
